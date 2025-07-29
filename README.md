@@ -16,7 +16,7 @@
 - Web tools that predict, recommend, and *learn*
 - Health Care systems that helps, manage, and automate processes
 
-🎯 Mission: Build systems that don’t just *run* — they *learn, adapt, and help*.
+🎯 Mission: Build systems that don’t just *run*, they *learn, adapt, and help*.
 
 📬 Let’s connect: I’m open to collabs, ideas, and building the future together.
 
