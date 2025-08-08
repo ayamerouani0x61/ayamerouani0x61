@@ -18,6 +18,12 @@
 
 🎯 Mission: Build systems that don’t just *run*, they *learn, adapt, and help*.
 
-📬 Let’s connect: I’m open to collabs, ideas, and building the future together.
+## 📫 Let’s Build Something
+If you need someone who can **take an idea, make it real, and make it work**, we’re already on the same page.  
+
+💌 **[Email me](mailto:ayamerouani0x61@gmail.com)**  
+🌐 **[Portfolio Website](https://ayamerouani.onrender.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/aya-merouani/)**  
+💻 **[GitHub](https://github.com/ayamerouani0x61)**
 
 ( All OF MY REPOS ARE PRIVATE )
