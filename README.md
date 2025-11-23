@@ -1,3 +1,4 @@
+# hey, I am Aya
 👋 Hey there! I'm Aya, AI Developer 🧠 | Data Engineer ⚙️ | Full-Stack Web Dev 🧩 | Builder of AI Agents that *actually* think 🤖
 
 💻 I turn code into intelligent systems, from fast, clean web apps to powerful ML pipelines and autonomous AI agents.
